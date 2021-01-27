@@ -8,7 +8,7 @@ namespace FoodsOrderAPI.Models
     public class FoodItem
     {
         public int Id { get; set; }
-        public string ImgSource { get; set; }
+        public string ImgSrc { get; set; }
         public string Title { get; set; }
         public string Desc { get; set; }
 
